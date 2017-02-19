@@ -12,3 +12,5 @@ add in zcbd branch(4).
 add in dev branch(4).
 
 add in zcgl branch(5).
+
+add in master branch(6).--remote
