@@ -20,6 +20,7 @@
  * @file frontend tool.
  * 
  * @author <a href="mailto:liliyuan@fangstar.net">Liyuan Li</a>
+ * @author <a href="mailto:liliyuan@fangstar.net">acanblog</a>
  * @version 1.4.2.0, Jan 21, 20167
  */
 
